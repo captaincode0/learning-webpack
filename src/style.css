@@ -1,0 +1,15 @@
+div {
+	color: red;
+}
+
+div a {
+	color: white;
+}
+
+div a:hover{
+	color: grey;
+}
+
+header{
+	background-color: black;
+}
